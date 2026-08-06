@@ -1,0 +1,16 @@
+# Bỏ qua thư mục jre
+jre/
+
+# Bỏ qua thư mục build
+target/
+
+# Bỏ qua file biên dịch
+*.class
+
+# Bỏ qua file log
+*.log
+
+# Bỏ qua file đóng gói
+*.jar
+*.war
+*.ear
